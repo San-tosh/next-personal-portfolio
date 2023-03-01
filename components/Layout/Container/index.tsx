@@ -10,7 +10,7 @@ export default function Container(props: { children: string | number | boolean |
     const meta = {
         title: "Santosh Bhulun – Full Stack Javascript Developer",
         description: `React developer, JavaScript enthusiast, and freelancer.`,
-        image: "https://www.adrinlol.com/assets/png/Thumbnail.png",
+        image: "https://www.santoshbhulun.com.np/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero1.8ae777fe.jpeg&w=640&q=75",
         type: "website",
     };
 
