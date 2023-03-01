@@ -55,7 +55,7 @@ const About = () => {
               </button>
 
               <button className="secondary__btn">
-                <Link href="#">Download CV</Link>
+                <Link href="/santosh bhulun - CV.pdf" target="_blank" rel="noopener noreferrer">Download CV</Link>
               </button>
             </div>
           </Col>

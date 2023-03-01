@@ -23,11 +23,13 @@ const Hero = () => {
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
-                  <Link href="components/UI#">Hire me</Link>
+                  <Link href="https://www.linkedin.com/in/santosh-bhulun-aaa167118/"
+                        target="_blank"
+                  >Hire me</Link>
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="components/UI#">Download CV</Link>
+                  <Link href="/santosh bhulun - CV.pdf" target="_blank" rel="noopener noreferrer">Download CV</Link>
                 </button>
               </div>
             </div>
