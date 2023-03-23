@@ -25,11 +25,19 @@ export const portfolio: PortfolioType[] =[
         liveUrl: "https://poetic-starlight-9344b8.netlify.app/"
     },
     {
-        id: "02",
+        id: "03",
         title: "Secret Share App",
         img: "/images/portfolio-03.png",
         category: "Web App",
         keyword: ["React","Nest.js","Tailwind"],
         liveUrl: "https://incandescent-toffee-fc14e5.netlify.app/"
+    },
+    {
+        id: "04",
+        title: "Weather Slack Bot",
+        img: "/images/portfolio-05.png",
+        category: "Slack Bot",
+        keyword: ["Golang","Slack API"],
+        liveUrl: "https://github.com/San-tosh/slack-weather-bot-golang"
     }
 ];
