@@ -39,5 +39,13 @@ export const portfolio: PortfolioType[] =[
         category: "Slack Bot",
         keyword: ["Golang","Slack API"],
         liveUrl: "https://github.com/San-tosh/slack-weather-bot-golang"
+    },
+    {
+        id: "05",
+        title: "Password Manager Desktop App",
+        img: "/images/portfolio-06.png",
+        category: "Desktop Application",
+        keyword: ["Golang","Wails","React","Cross-Compiled"],
+        liveUrl: "https://github.com/San-tosh/golang-password-manager-wails"
     }
 ];
